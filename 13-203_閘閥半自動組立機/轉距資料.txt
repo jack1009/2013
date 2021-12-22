@@ -1,0 +1,10 @@
+Bonnet:
+1/2" 700+-100 kg-cm
+3/4" 900+-200 kg-cm
+1"   1300+-200 kg-cm
+
+Nut:
+80+-20 kg-cm
+
+Handle Nut
+30+-10 kg-cm

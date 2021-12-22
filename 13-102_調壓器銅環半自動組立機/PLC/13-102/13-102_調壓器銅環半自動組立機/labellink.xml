@@ -1,0 +1,806 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSLINKLABELHISTORY>
+    <L_Label_History diffgr:id="L_Label_History1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <iHistoryID>1</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>13-102_調壓器銅環半自動組立機_20140122.prj</szFileName>
+      <iProjectdataID>1</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <iHistoryID>2</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0101000000000002.col</szFileName>
+      <iProjectdataID>2</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+      <iID>3</iID>
+      <iHistoryID>3</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0101000000000003.col</szFileName>
+      <iProjectdataID>3</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+      <iID>4</iID>
+      <iHistoryID>4</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0101000000000004.col</szFileName>
+      <iProjectdataID>4</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+      <iID>5</iID>
+      <iHistoryID>5</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0101000000000005.col</szFileName>
+      <iProjectdataID>5</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+      <iID>6</iID>
+      <iHistoryID>6</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0101000000000006.col</szFileName>
+      <iProjectdataID>6</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+      <iID>7</iID>
+      <iHistoryID>7</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0101000000000007.col</szFileName>
+      <iProjectdataID>7</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+      <iID>8</iID>
+      <iHistoryID>8</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0101000000000008.col</szFileName>
+      <iProjectdataID>8</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+      <iID>9</iID>
+      <iHistoryID>9</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0101000000000009.col</szFileName>
+      <iProjectdataID>9</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+      <iID>10</iID>
+      <iHistoryID>10</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>010100000000000A.col</szFileName>
+      <iProjectdataID>10</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+      <iID>11</iID>
+      <iHistoryID>11</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>010100000000000B.col</szFileName>
+      <iProjectdataID>11</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+      <iID>12</iID>
+      <iHistoryID>15</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>MAIN.res</szFileName>
+      <iProjectdataID>12</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+      <iID>13</iID>
+      <iHistoryID>16</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Task_01.tsk</szFileName>
+      <iProjectdataID>13</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+      <iID>14</iID>
+      <iHistoryID>17</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Data.str</szFileName>
+      <iProjectdataID>14</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+      <iID>15</iID>
+      <iHistoryID>18</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Error.gh</szFileName>
+      <iProjectdataID>15</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+      <iID>16</iID>
+      <iHistoryID>19</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>HMI.gh</szFileName>
+      <iProjectdataID>16</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+      <iID>17</iID>
+      <iHistoryID>20</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>IO.gh</szFileName>
+      <iProjectdataID>17</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+      <iID>18</iID>
+      <iHistoryID>21</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>STATUS.gh</szFileName>
+      <iProjectdataID>18</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History19" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+      <iID>19</iID>
+      <iHistoryID>27</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>DataChange.Labels.lh</szFileName>
+      <iProjectdataID>19</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History20" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+      <iID>20</iID>
+      <iHistoryID>12</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Param.wpa</szFileName>
+      <iProjectdataID>20</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History21" msdata:rowOrder="20" diffgr:hasChanges="inserted">
+      <iID>21</iID>
+      <iHistoryID>13</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Param.lup</szFileName>
+      <iProjectdataID>21</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History22" msdata:rowOrder="21" diffgr:hasChanges="inserted">
+      <iID>22</iID>
+      <iHistoryID>22</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>COMMENT.qcd</szFileName>
+      <iProjectdataID>22</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History23" msdata:rowOrder="22" diffgr:hasChanges="inserted">
+      <iID>23</iID>
+      <iHistoryID>23</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>MAIN.qdv</szFileName>
+      <iProjectdataID>23</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History24" msdata:rowOrder="23" diffgr:hasChanges="inserted">
+      <iID>24</iID>
+      <iHistoryID>14</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>AUTOEXEC.wbt</szFileName>
+      <iProjectdataID>24</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History25" msdata:rowOrder="24" diffgr:hasChanges="inserted">
+      <iID>25</iID>
+      <iHistoryID>24</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>00000000.qtm</szFileName>
+      <iProjectdataID>25</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History26" msdata:rowOrder="25" diffgr:hasChanges="inserted">
+      <iID>26</iID>
+      <iHistoryID>28</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>DataChange.Program.pou</szFileName>
+      <iProjectdataID>27</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History27" msdata:rowOrder="26" diffgr:hasChanges="inserted">
+      <iID>27</iID>
+      <iHistoryID>29</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>HMIPageChange.Labels.lh</szFileName>
+      <iProjectdataID>28</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History28" msdata:rowOrder="27" diffgr:hasChanges="inserted">
+      <iID>28</iID>
+      <iHistoryID>30</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>HMIPageChange.Program.pou</szFileName>
+      <iProjectdataID>29</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History29" msdata:rowOrder="28" diffgr:hasChanges="inserted">
+      <iID>29</iID>
+      <iHistoryID>31</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Index_auto.Labels.lh</szFileName>
+      <iProjectdataID>30</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History30" msdata:rowOrder="29" diffgr:hasChanges="inserted">
+      <iID>30</iID>
+      <iHistoryID>32</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Index_auto.Program.pou</szFileName>
+      <iProjectdataID>31</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History31" msdata:rowOrder="30" diffgr:hasChanges="inserted">
+      <iID>31</iID>
+      <iHistoryID>33</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Index_manual.Labels.lh</szFileName>
+      <iProjectdataID>32</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History32" msdata:rowOrder="31" diffgr:hasChanges="inserted">
+      <iID>32</iID>
+      <iHistoryID>34</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Index_manual.Program.pou</szFileName>
+      <iProjectdataID>33</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History33" msdata:rowOrder="32" diffgr:hasChanges="inserted">
+      <iID>33</iID>
+      <iHistoryID>35</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>POU_01.Labels.lh</szFileName>
+      <iProjectdataID>34</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History34" msdata:rowOrder="33" diffgr:hasChanges="inserted">
+      <iID>34</iID>
+      <iHistoryID>36</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>POU_01.Program.pou</szFileName>
+      <iProjectdataID>35</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History35" msdata:rowOrder="34" diffgr:hasChanges="inserted">
+      <iID>35</iID>
+      <iHistoryID>37</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S2_Auto.Labels.lh</szFileName>
+      <iProjectdataID>36</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History36" msdata:rowOrder="35" diffgr:hasChanges="inserted">
+      <iID>36</iID>
+      <iHistoryID>38</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S2_Auto.Program.pou</szFileName>
+      <iProjectdataID>37</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History37" msdata:rowOrder="36" diffgr:hasChanges="inserted">
+      <iID>37</iID>
+      <iHistoryID>39</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S3_auto.Labels.lh</szFileName>
+      <iProjectdataID>38</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History38" msdata:rowOrder="37" diffgr:hasChanges="inserted">
+      <iID>38</iID>
+      <iHistoryID>40</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S3_auto.Program.pou</szFileName>
+      <iProjectdataID>39</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History39" msdata:rowOrder="38" diffgr:hasChanges="inserted">
+      <iID>39</iID>
+      <iHistoryID>41</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S3_INIT.Labels.lh</szFileName>
+      <iProjectdataID>40</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History40" msdata:rowOrder="39" diffgr:hasChanges="inserted">
+      <iID>40</iID>
+      <iHistoryID>42</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S3_INIT.Program.pou</szFileName>
+      <iProjectdataID>41</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History41" msdata:rowOrder="40" diffgr:hasChanges="inserted">
+      <iID>41</iID>
+      <iHistoryID>43</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S3_manual.Labels.lh</szFileName>
+      <iProjectdataID>42</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History42" msdata:rowOrder="41" diffgr:hasChanges="inserted">
+      <iID>42</iID>
+      <iHistoryID>44</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S3_manual.Program.pou</szFileName>
+      <iProjectdataID>43</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History43" msdata:rowOrder="42" diffgr:hasChanges="inserted">
+      <iID>43</iID>
+      <iHistoryID>45</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S4_auto.Labels.lh</szFileName>
+      <iProjectdataID>44</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History44" msdata:rowOrder="43" diffgr:hasChanges="inserted">
+      <iID>44</iID>
+      <iHistoryID>46</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S4_auto.Program.pou</szFileName>
+      <iProjectdataID>45</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History45" msdata:rowOrder="44" diffgr:hasChanges="inserted">
+      <iID>45</iID>
+      <iHistoryID>47</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S4_INIT.Labels.lh</szFileName>
+      <iProjectdataID>46</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History46" msdata:rowOrder="45" diffgr:hasChanges="inserted">
+      <iID>46</iID>
+      <iHistoryID>48</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S4_INIT.Program.pou</szFileName>
+      <iProjectdataID>47</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History47" msdata:rowOrder="46" diffgr:hasChanges="inserted">
+      <iID>47</iID>
+      <iHistoryID>49</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S4_manual.Labels.lh</szFileName>
+      <iProjectdataID>48</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History48" msdata:rowOrder="47" diffgr:hasChanges="inserted">
+      <iID>48</iID>
+      <iHistoryID>50</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S4_manual.Program.pou</szFileName>
+      <iProjectdataID>49</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History49" msdata:rowOrder="48" diffgr:hasChanges="inserted">
+      <iID>49</iID>
+      <iHistoryID>51</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S5_Auto.Labels.lh</szFileName>
+      <iProjectdataID>50</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History50" msdata:rowOrder="49" diffgr:hasChanges="inserted">
+      <iID>50</iID>
+      <iHistoryID>52</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S5_Auto.Program.pou</szFileName>
+      <iProjectdataID>51</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History51" msdata:rowOrder="50" diffgr:hasChanges="inserted">
+      <iID>51</iID>
+      <iHistoryID>53</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S5_manual.Labels.lh</szFileName>
+      <iProjectdataID>52</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History52" msdata:rowOrder="51" diffgr:hasChanges="inserted">
+      <iID>52</iID>
+      <iHistoryID>54</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S5_manual.Program.pou</szFileName>
+      <iProjectdataID>53</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History53" msdata:rowOrder="52" diffgr:hasChanges="inserted">
+      <iID>53</iID>
+      <iHistoryID>55</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S6_auto.Labels.lh</szFileName>
+      <iProjectdataID>54</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History54" msdata:rowOrder="53" diffgr:hasChanges="inserted">
+      <iID>54</iID>
+      <iHistoryID>56</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S6_auto.Program.pou</szFileName>
+      <iProjectdataID>55</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History55" msdata:rowOrder="54" diffgr:hasChanges="inserted">
+      <iID>55</iID>
+      <iHistoryID>57</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S6_INIT.Labels.lh</szFileName>
+      <iProjectdataID>56</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History56" msdata:rowOrder="55" diffgr:hasChanges="inserted">
+      <iID>56</iID>
+      <iHistoryID>58</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S6_INIT.Program.pou</szFileName>
+      <iProjectdataID>57</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History57" msdata:rowOrder="56" diffgr:hasChanges="inserted">
+      <iID>57</iID>
+      <iHistoryID>59</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S6_manual.Labels.lh</szFileName>
+      <iProjectdataID>58</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History58" msdata:rowOrder="57" diffgr:hasChanges="inserted">
+      <iID>58</iID>
+      <iHistoryID>60</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S6_manual.Program.pou</szFileName>
+      <iProjectdataID>59</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History59" msdata:rowOrder="58" diffgr:hasChanges="inserted">
+      <iID>59</iID>
+      <iHistoryID>61</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S7_auto.Labels.lh</szFileName>
+      <iProjectdataID>60</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History60" msdata:rowOrder="59" diffgr:hasChanges="inserted">
+      <iID>60</iID>
+      <iHistoryID>62</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S7_auto.Program.pou</szFileName>
+      <iProjectdataID>61</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History61" msdata:rowOrder="60" diffgr:hasChanges="inserted">
+      <iID>61</iID>
+      <iHistoryID>63</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S7_INIT.Labels.lh</szFileName>
+      <iProjectdataID>62</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History62" msdata:rowOrder="61" diffgr:hasChanges="inserted">
+      <iID>62</iID>
+      <iHistoryID>64</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S7_INIT.Program.pou</szFileName>
+      <iProjectdataID>63</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History63" msdata:rowOrder="62" diffgr:hasChanges="inserted">
+      <iID>63</iID>
+      <iHistoryID>96</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>UserLibrary.col</szFileName>
+      <iProjectdataID>64</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History64" msdata:rowOrder="63" diffgr:hasChanges="inserted">
+      <iID>64</iID>
+      <iHistoryID>86</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>MELSECFunction.lif</szFileName>
+      <iProjectdataID>65</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History65" msdata:rowOrder="64" diffgr:hasChanges="inserted">
+      <iID>65</iID>
+      <iHistoryID>87</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>IECFunction.lif</szFileName>
+      <iProjectdataID>66</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History66" msdata:rowOrder="65" diffgr:hasChanges="inserted">
+      <iID>66</iID>
+      <iHistoryID>97</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>MELSEC_LIB2.lif</szFileName>
+      <iProjectdataID>67</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History67" msdata:rowOrder="66" diffgr:hasChanges="inserted">
+      <iID>67</iID>
+      <iHistoryID>85</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>BlockPassword.bpw</szFileName>
+      <iProjectdataID>68</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History68" msdata:rowOrder="67" diffgr:hasChanges="inserted">
+      <iID>68</iID>
+      <iHistoryID>25</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SamplingTrace.qtd</szFileName>
+      <iProjectdataID>69</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History69" msdata:rowOrder="68" diffgr:hasChanges="inserted">
+      <iID>69</iID>
+      <iHistoryID>26</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SystemLabel.sld</szFileName>
+      <iProjectdataID>70</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History70" msdata:rowOrder="69" diffgr:hasChanges="inserted">
+      <iID>70</iID>
+      <iHistoryID>98</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>13-102_調壓器銅環半自動組立機_20140122.pji</szFileName>
+      <iProjectdataID>71</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History71" msdata:rowOrder="70" diffgr:hasChanges="inserted">
+      <iID>71</iID>
+      <iHistoryID>99</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>DeviceAssignment.dat</szFileName>
+      <iProjectdataID>72</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History72" msdata:rowOrder="71" diffgr:hasChanges="inserted">
+      <iID>72</iID>
+      <iHistoryID>100</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>ProgramAnalysis.dat</szFileName>
+      <iProjectdataID>73</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History73" msdata:rowOrder="72" diffgr:hasChanges="inserted">
+      <iID>73</iID>
+      <iHistoryID>101</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>DebugInformation.dat</szFileName>
+      <iProjectdataID>74</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History74" msdata:rowOrder="73" diffgr:hasChanges="inserted">
+      <iID>74</iID>
+      <iHistoryID>102</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>CallTree.dat</szFileName>
+      <iProjectdataID>75</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History75" msdata:rowOrder="74" diffgr:hasChanges="inserted">
+      <iID>75</iID>
+      <iHistoryID>103</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>CGTable.dat</szFileName>
+      <iProjectdataID>76</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History76" msdata:rowOrder="75" diffgr:hasChanges="inserted">
+      <iID>76</iID>
+      <iHistoryID>104</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>DebugInformation2.dat</szFileName>
+      <iProjectdataID>77</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History77" msdata:rowOrder="76" diffgr:hasChanges="inserted">
+      <iID>77</iID>
+      <iHistoryID>105</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>ESCompiler.stg</szFileName>
+      <iProjectdataID>78</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History78" msdata:rowOrder="77" diffgr:hasChanges="inserted">
+      <iID>78</iID>
+      <iHistoryID>106</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>ProjectStatusFlag.dat</szFileName>
+      <iProjectdataID>79</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History79" msdata:rowOrder="78" diffgr:hasChanges="inserted">
+      <iID>79</iID>
+      <iHistoryID>107</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Gppw2.gpj</szFileName>
+      <iProjectdataID>80</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History80" msdata:rowOrder="79" diffgr:hasChanges="inserted">
+      <iID>80</iID>
+      <iHistoryID>108</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>OPTIONDATA.PrgDebugger</szFileName>
+      <iProjectdataID>81</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History81" msdata:rowOrder="80" diffgr:hasChanges="inserted">
+      <iID>81</iID>
+      <iHistoryID>109</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>PRGDEBUGGER_WND1.PrgDebugger</szFileName>
+      <iProjectdataID>82</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History82" msdata:rowOrder="81" diffgr:hasChanges="inserted">
+      <iID>82</iID>
+      <iHistoryID>110</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>PRGDEBUGGER_WND2.PrgDebugger</szFileName>
+      <iProjectdataID>83</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History83" msdata:rowOrder="82" diffgr:hasChanges="inserted">
+      <iID>83</iID>
+      <iHistoryID>111</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>PRGDEBUGGER_WND3.PrgDebugger</szFileName>
+      <iProjectdataID>84</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History84" msdata:rowOrder="83" diffgr:hasChanges="inserted">
+      <iID>84</iID>
+      <iHistoryID>112</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>Cnct2.ini</szFileName>
+      <iProjectdataID>85</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History85" msdata:rowOrder="84" diffgr:hasChanges="inserted">
+      <iID>85</iID>
+      <iHistoryID>113</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>CCLinkDiag2.dat</szFileName>
+      <iProjectdataID>86</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History86" msdata:rowOrder="85" diffgr:hasChanges="inserted">
+      <iID>86</iID>
+      <iHistoryID>114</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>CCLinkDiag.dat</szFileName>
+      <iProjectdataID>87</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History87" msdata:rowOrder="86" diffgr:hasChanges="inserted">
+      <iID>87</iID>
+      <iHistoryID>65</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S7_manual.Labels.lh</szFileName>
+      <iProjectdataID>88</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History88" msdata:rowOrder="87" diffgr:hasChanges="inserted">
+      <iID>88</iID>
+      <iHistoryID>66</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S7_manual.Program.pou</szFileName>
+      <iProjectdataID>89</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History89" msdata:rowOrder="88" diffgr:hasChanges="inserted">
+      <iID>89</iID>
+      <iHistoryID>67</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S8_auto.Labels.lh</szFileName>
+      <iProjectdataID>90</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History90" msdata:rowOrder="89" diffgr:hasChanges="inserted">
+      <iID>90</iID>
+      <iHistoryID>68</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S8_auto.Program.pou</szFileName>
+      <iProjectdataID>91</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History91" msdata:rowOrder="90" diffgr:hasChanges="inserted">
+      <iID>91</iID>
+      <iHistoryID>69</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S8_INIT.Labels.lh</szFileName>
+      <iProjectdataID>92</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History92" msdata:rowOrder="91" diffgr:hasChanges="inserted">
+      <iID>92</iID>
+      <iHistoryID>70</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S8_INIT.Program.pou</szFileName>
+      <iProjectdataID>93</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History93" msdata:rowOrder="92" diffgr:hasChanges="inserted">
+      <iID>93</iID>
+      <iHistoryID>71</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S8_manual.Labels.lh</szFileName>
+      <iProjectdataID>94</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History94" msdata:rowOrder="93" diffgr:hasChanges="inserted">
+      <iID>94</iID>
+      <iHistoryID>72</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>S8_manual.Program.pou</szFileName>
+      <iProjectdataID>95</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History95" msdata:rowOrder="94" diffgr:hasChanges="inserted">
+      <iID>95</iID>
+      <iHistoryID>73</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SendItem_S3.Labels.lh</szFileName>
+      <iProjectdataID>96</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History96" msdata:rowOrder="95" diffgr:hasChanges="inserted">
+      <iID>96</iID>
+      <iHistoryID>74</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SendItem_S3.Program.pou</szFileName>
+      <iProjectdataID>97</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History97" msdata:rowOrder="96" diffgr:hasChanges="inserted">
+      <iID>97</iID>
+      <iHistoryID>75</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SendItem_S4.Labels.lh</szFileName>
+      <iProjectdataID>98</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History98" msdata:rowOrder="97" diffgr:hasChanges="inserted">
+      <iID>98</iID>
+      <iHistoryID>76</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SendItem_S4.Program.pou</szFileName>
+      <iProjectdataID>99</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History99" msdata:rowOrder="98" diffgr:hasChanges="inserted">
+      <iID>99</iID>
+      <iHistoryID>77</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SendItem_S6.Labels.lh</szFileName>
+      <iProjectdataID>100</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History100" msdata:rowOrder="99" diffgr:hasChanges="inserted">
+      <iID>100</iID>
+      <iHistoryID>78</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SendItem_S6.Program.pou</szFileName>
+      <iProjectdataID>101</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History101" msdata:rowOrder="100" diffgr:hasChanges="inserted">
+      <iID>101</iID>
+      <iHistoryID>79</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SendItem_S8.Labels.lh</szFileName>
+      <iProjectdataID>102</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History102" msdata:rowOrder="101" diffgr:hasChanges="inserted">
+      <iID>102</iID>
+      <iHistoryID>80</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>SendItem_S8.Program.pou</szFileName>
+      <iProjectdataID>103</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History103" msdata:rowOrder="102" diffgr:hasChanges="inserted">
+      <iID>103</iID>
+      <iHistoryID>81</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>warring.Labels.lh</szFileName>
+      <iProjectdataID>104</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History104" msdata:rowOrder="103" diffgr:hasChanges="inserted">
+      <iID>104</iID>
+      <iHistoryID>82</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>warring.Program.pou</szFileName>
+      <iProjectdataID>105</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History105" msdata:rowOrder="104" diffgr:hasChanges="inserted">
+      <iID>105</iID>
+      <iHistoryID>83</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>ST7_Oil.Labels.lh</szFileName>
+      <iProjectdataID>106</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History106" msdata:rowOrder="105" diffgr:hasChanges="inserted">
+      <iID>106</iID>
+      <iHistoryID>84</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>ST7_Oil.Program.pou</szFileName>
+      <iProjectdataID>107</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History107" msdata:rowOrder="106" diffgr:hasChanges="inserted">
+      <iID>107</iID>
+      <iHistoryID>88</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>GX_LIB.lif</szFileName>
+      <iProjectdataID>108</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History108" msdata:rowOrder="107" diffgr:hasChanges="inserted">
+      <iID>108</iID>
+      <iHistoryID>89</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0155000000000000\GX_LIB.col</szFileName>
+      <iProjectdataID>109</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History109" msdata:rowOrder="108" diffgr:hasChanges="inserted">
+      <iID>109</iID>
+      <iHistoryID>90</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0154000000000000\GX_LIB.col</szFileName>
+      <iProjectdataID>110</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History110" msdata:rowOrder="109" diffgr:hasChanges="inserted">
+      <iID>110</iID>
+      <iHistoryID>91</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>0156000000000001\GX_LIB.col</szFileName>
+      <iProjectdataID>111</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History111" msdata:rowOrder="110" diffgr:hasChanges="inserted">
+      <iID>111</iID>
+      <iHistoryID>92</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>supply_Lib.Labels\GX_LIB.lnl</szFileName>
+      <iProjectdataID>112</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History112" msdata:rowOrder="111" diffgr:hasChanges="inserted">
+      <iID>112</iID>
+      <iHistoryID>94</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>supply_Lib.Labels\GX_LIB.llv</szFileName>
+      <iProjectdataID>113</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History113" msdata:rowOrder="112" diffgr:hasChanges="inserted">
+      <iID>113</iID>
+      <iHistoryID>93</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>supply_Lib.Program\GX_LIB.lnb</szFileName>
+      <iProjectdataID>114</iProjectdataID>
+    </L_Label_History>
+    <L_Label_History diffgr:id="L_Label_History114" msdata:rowOrder="113" diffgr:hasChanges="inserted">
+      <iID>114</iID>
+      <iHistoryID>95</iHistoryID>
+      <iLabelID>1</iLabelID>
+      <szFileName>supply_Lib.Program\GX_LIB.lbo</szFileName>
+      <iProjectdataID>115</iProjectdataID>
+    </L_Label_History>
+    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSLINKLABELHISTORY>
+</diffgr:diffgram>
